@@ -41,6 +41,13 @@ body {
   justify-content: center;
 }
 
+.nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 7px 15px;
+  transition: all 0.3 ease-in-out;
+}
+
 .hero {
   background-image: url(https://images.unsplash.com/photo-1590212151175-e58edd96185b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80);
   height: 100vh;
